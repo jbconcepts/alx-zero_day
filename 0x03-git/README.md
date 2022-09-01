@@ -1,2 +1,2 @@
 My git project
-Updated git projec
+Updated git project
